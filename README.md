@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pradeesh, a passionate Software engineer from India.
+I'm Pradeesh, a passionate Software Engineer.
 
 My 🧑‍💻 Dev Stack
 
