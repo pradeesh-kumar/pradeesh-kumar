@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pradeesh, a passionate Software Engineer.
+I'm Pradeesh, another passionate Software Engineer.
 
 My 🧑‍💻 Dev Stack
 
